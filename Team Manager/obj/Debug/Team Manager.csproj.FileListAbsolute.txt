@@ -1,0 +1,16 @@
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\bin\Debug\Team Manager.exe.config
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\bin\Debug\Team Manager.exe
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\bin\Debug\Team Manager.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\bin\Debug\Guna.UI2.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team_Manager.Properties.Resources.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team Manager.csproj.GenerateResource.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team Manager.csproj.CoreCompileInputs.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team Manager.csproj.CopyComplete
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team Manager.exe
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team Manager.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team Manager.csprojAssemblyReference.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team_Manager.TeamManager.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team_Manager.ViewTeam.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team_Manager.ViewTeam334.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\obj\Debug\Team_Manager.MemberOfTeam.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\5\Team Manager\Team Manager\Team Manager\bin\Debug\Bunifu_UI_v1.52.dll
